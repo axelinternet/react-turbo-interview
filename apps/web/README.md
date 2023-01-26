@@ -1,10 +1,12 @@
 ## Getting Started
 
-First, run the development server:
+To get started, run the dev server from root and read the docs on port 3001
 
 ```bash
 yarn dev
 ```
+
+## Next README:
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 

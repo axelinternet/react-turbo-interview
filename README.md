@@ -1,6 +1,9 @@
-# Turborepo starter
+# TODO - React interview
 
-This is an official Yarn v1 starter turborepo.
+This repo is built on a monorepo setup using a tool called Turborepo. You need to have node and yarn installed to run it, the rest should be included. The documentation below describes the structure, but it is more as help if you get stuck, you don't need to read all the details.
+
+The documentation for the actual task is in the docs app, run the monorepo using `yarn dev` and read the instructions on `http://localhost:3001`
+
 
 ## What's inside?
 
